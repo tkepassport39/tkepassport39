@@ -7,7 +7,7 @@ My name is Anthony Vanegas and I'm a software developer/systems engineer. I'm fr
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-<a href="anthonyvanegas.com"><img align="left" alt="anthonyvanegas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+[<img align="left" alt="anthonyvanegas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://anthonyvanegas.com)
 
 <br>
 
