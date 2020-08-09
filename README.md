@@ -11,6 +11,8 @@ My name is Anthony Vanegas and I'm a software developer/systems engineer. I'm fr
 [<img align="left" alt="AnthonyVanegas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-vanegas-32956227/)
 <br>
 
+---
+
 ### 🔧 Languages and Tools: 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=457b9d)
 ![](https://img.shields.io/badge/Cloud-Microsoft-informational?style=flat-square-square&logo=Microsoft%20azure&logoColor=white&color=457b9d)
@@ -33,8 +35,8 @@ My name is Anthony Vanegas and I'm a software developer/systems engineer. I'm fr
 ![](https://img.shields.io/badge/Git-Bitbucket-informational?style=flat-square&logo=bitbucket&logoColor=white&color=457b9d)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=457b9d)
 
-
+---
 
 ### &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkepassport39&title_color=0366d6&text_color=0077b6&icon_color=2bbc8a&bg_color=ffffff)](https://github.com/tkepassport39/tkepassport39)
-![TKEpassport39's github stats](https://github-readme-stats.vercel.app/api?username=tkepassport39&theme=graywhite&show_icons=true&count_private=true)
+![TKEpassport39's github stats](https://github-readme-stats.vercel.app/api?username=tkepassport39&theme=bluewhite&show_icons=true&count_private=true&hide_border=true)
