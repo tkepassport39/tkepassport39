@@ -37,4 +37,4 @@ My name is Anthony Vanegas and I'm a software developer/systems engineer. I'm fr
 
 ### &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkepassport39&title_color=0366d6&text_color=0077b6&icon_color=2bbc8a&bg_color=ffffff)](https://github.com/tkepassport39/tkepassport39)
-![TKEpassport39's github stats](https://github-readme-stats.vercel.app/api?username=tkepassport39&theme=graywhite&show_icons=true)
+![TKEpassport39's github stats](https://github-readme-stats.vercel.app/api?username=tkepassport39&theme=graywhite&show_icons=true&count_private=true)
