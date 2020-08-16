@@ -1,6 +1,6 @@
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Anthony Vanegas and I'm a software developer/systems engineer. I'm from NY and currently working at GLG (Gerson Lehrman Group). You can find me on [<img alt="AnthonyVanegas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-vanegas-32956227/).
+My name is Anthony Vanegas and I'm a Software/Systems Engineer. I'm from NY and currently working at GLG (Gerson Lehrman Group). You can find me on [<img alt="AnthonyVanegas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-vanegas-32956227/).
 
 - 🔭 I’m currently working on getting my AWS SAA Certification!
 - 🌱 I’m currently learning everything 🤣
