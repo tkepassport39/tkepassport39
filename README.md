@@ -2,9 +2,9 @@
 
 My name is Anthony Vanegas and I'm a Software/Systems Engineer. I'm from NY and currently working at GLG (Gerson Lehrman Group). You can find me on [<img alt="AnthonyVanegas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-vanegas-32956227/).
 
-- 🔭 I’m currently working on getting my AWS SAA Certification!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👨🏽‍🎓 I'm an AWS Certified Solutions Architect – Associate [[see credential](https://www.youracclaim.com/badges/4af66d28-674e-48ad-a510-fdb15797619e?source=linked_in_profile)]
+- 🌱 I’m currently learning everything
+- 🥅 2020 Goals: Contribute more to Open Source projects build more automation code
 
 ### Connect with me:
 [<img align="left" alt="anthonyvanegas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://anthonyvanegas.com)
