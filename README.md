@@ -1,6 +1,6 @@
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Anthony Vanegas and I'm an Information Security Engineer. I'm from NY and currently working at GLG (Gerson Lehrman Group). You can find me on [<img alt="AnthonyVanegas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-vanegas-32956227/).
+My name is Anthony Vanegas and I'm a Information Security Engineer. I'm from NY and currently working at GLG (Gerson Lehrman Group). You can find me on [<img alt="AnthonyVanegas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-vanegas-32956227/).
 
 - 👨🏽‍🎓 I'm an AWS Certified Solutions Architect – Associate [[see credential](https://www.youracclaim.com/badges/4af66d28-674e-48ad-a510-fdb15797619e?source=linked_in_profile)]
 - 🌱 I’m currently learning everything
